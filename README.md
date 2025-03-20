@@ -28,25 +28,25 @@ Before setting up, ensure you have the following installed on your system:
 
 1. Clone the repository to your local machine:
 
-'''bash
+```bash
 git clone https://github.com/yourusername/config-files-repo.git
-'''
+```
 
 2. Navigate into the project directory:
 
-'''bash
+```bash
 cd config-files-repo
-'''
+```
 
 3. Copy the configuration files to their respective locations. For example:
 
-'''bash
+```bash
 cp -r yabai/. ~/.config/yabai/
 cp -r skhd/. ~/.config/skhd/
 cp -r komorebi/. ~/.config/komorebi/
 cp -r wkhd/. ~/.config/wkhd/
 cp -r nvim/. ~/.config/nvim/
-'''
+```
 
 4. Restart any necessary services or applications to load the new configurations.
 
