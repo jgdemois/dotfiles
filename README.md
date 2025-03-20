@@ -9,9 +9,9 @@ This repository holds all necessary configuration files that customize and optim
 ## Tools Included
 
 - **Yabai**: A window management tool for macOS that allows for efficient tiling and organization of application windows.
-- **SKHD**: A simple hotkey daemon for macOS that lets you define keyboard shortcuts to trigger various commands.
-- **Komorebi**: A beautiful wallpaper manager for macOS, which also allows for animated wallpapers.
-- **WKHD**: A tiling window manager for macOS that aims to improve workflow through keyboard-driven management.
+- **skhd**: A simple hotkey daemon for macOS that lets you define keyboard shortcuts to trigger various commands.
+- **Komorebi**: A window management tool for Windows that allows for efficient tiling and organization of application windows.
+- **whkd**: A simple hotkey daemon for Windows that lets you define keyboard shortcuts to trigger various commands.
 - **Neovim**: An extensible text editor designed for developer usability.
 
 ## Getting Started
@@ -65,5 +65,5 @@ If you would like to contribute to this repository, please follow these steps:
 This project is licensed under the MIT License. See the [MIT License](https://github.com/jgdemois/dotfiles?tab=MIT-1-ov-file#) file for details.
 
 ## Acknowledgments
-Thanks to the creators and maintainers of Yabai, SKHD, Komorebi, WKHD, and Neovim for their amazing tools that enhance my productivity.
+Thanks to the creators and maintainers of [Yabai](https://github.com/koekeishiya/yabai), [skhd](https://github.com/koekeishiya/skhd), [Komorebi](https://github.com/LGUG2Z/komorebi), [whkd](https://github.com/LGUG2Z/whkd), and Neovim for their amazing tools that enhance my productivity.
 
